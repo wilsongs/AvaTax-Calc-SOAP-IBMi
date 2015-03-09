@@ -1,5 +1,3 @@
-AvaTax-Calc-SOAP-IBMi-V6R1andLater
+AvaTax-Calc-SOAP-IBMi
 ==================================
-[Other Samples](http://developer.avalara.com/api-docs/api-sample-code)
-
-Integration source code and documentation for integrating to iSeries versions beginning with V6R1.
+Integration source code and documentation for integrating to iSeries versions beginning with V6R1. You will find the download instructions in the PDF file.
